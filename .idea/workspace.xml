@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2184eb1-cf80-4d2e-9bea-334f43291826" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/problems/getMayorNumber.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/mulWithoutMulSign.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problems/removeInvalidValues.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/main.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/main.test.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1sIzw8vxnd2kiO82uryo5BZyzY1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Jest.should return a array without undefined, null, 0 and false values">
+    <configuration name="count camel case in a word" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/test/main.test.js" />
+      <test-names>
+        <test-name value="count camel case in a word" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="should return a array without undefined, null, 0 and false values" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/test/main.test.js" />
+      <test-names>
+        <test-name value="should return a array without undefined, null, 0 and false values" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="should return mul between two numbers" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/test/main.test.js" />
+      <test-names>
+        <test-name value="should return mul between two numbers" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="should return the mayor number of array" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/test/main.test.js" />
+      <test-names>
+        <test-name value="should return the mayor number of array" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.should return a array without undefined, null, 0 and false values" />
+        <item itemvalue="Jest.should return the mayor number of array" />
+        <item itemvalue="Jest.should return mul between two numbers" />
+        <item itemvalue="Jest.count camel case in a word" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2184eb1-cf80-4d2e-9bea-334f43291826" name="Default Changelist" comment="" />
+      <created>1620575132582</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620575132582</updated>
+      <workItem from="1620575134179" duration="934000" />
+      <workItem from="1620934733276" duration="7038000" />
+      <workItem from="1622217626633" duration="36000" />
+      <workItem from="1622217682845" duration="46000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
